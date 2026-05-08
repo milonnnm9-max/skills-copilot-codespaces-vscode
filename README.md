@@ -2,7 +2,7 @@
 My clone repository
 
 Hi there, I'm MOHAMMED ALDAERI! 
- 🎓 Mechatronics Engineering Student | Flutter Developer | Tech Enthusiast  
+  Mechatronics Engineering Student | Flutter Developer | Tech Enthusiast  
  
 I’m a 20-year-old Mechatronics Engineering student who loves bridging the gap between hardware and software. I spend my time building mobile apps with Flutter & Firebase and exploring the world of Robotics and Automation
 What I'm working on:
